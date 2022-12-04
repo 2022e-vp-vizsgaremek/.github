@@ -9,4 +9,4 @@ Csapatok és repositoryk
 - [Okosnaptár](https://github.com/2022e-vp-vizsgaremek/okosnaptar): Kocsó Norbert, Szeredi Medárd
 - [Online könvyvtár](https://github.com/2022e-vp-vizsgaremek/online-konyvtar): Bakaity Péter, Borsodi Ádám, Nagy László
 - [Receptek](https://github.com/2022e-vp-vizsgaremek/receptek): Farkas Krisztián, Nyári Ivó, Szathmári Ádám
-- [Tudá sadatbázis](https://github.com/2022e-vp-vizsgaremek/tudas-adatbazis): Dencs Dániel, Garzó Zsolt 
+- [Tudás adatbázis](https://github.com/2022e-vp-vizsgaremek/tudas-adatbazis): Dencs Dániel, Garzó Zsolt 
